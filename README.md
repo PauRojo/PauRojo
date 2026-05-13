@@ -8,3 +8,11 @@ Durante mi primer año he obtenido un aprendizaje sobre diversas herramientas co
 
 
 SKILLS
+
+Programación en HTML
+Programación en CSS
+Programación en PHP
+Programación en SQL
+Programación en JavaScript
+Conocimientos en subnetting
+Conocimientos en hardware
