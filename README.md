@@ -16,3 +16,10 @@ Programación en SQL.
 Programación en JavaScript.                                                                                                                                    
 Conocimientos en subnetting.                                                                                                                                   
 Conocimientos en hardware.                                                                                                                                     
+
+
+PROYECTOS
+
+CV
+Cartera de criptomonedas
+Travel Dashboard
