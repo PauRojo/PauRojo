@@ -6,6 +6,7 @@ Debido a que la informática es una de mis pasiones decidí estudiar ASIX al fin
 
 Durante mi primer año he obtenido un aprendizaje sobre diversas herramientas como pueden ser la programación en lenguaje HTML, CSS, PHP, JavaScript, BASH o SQL, así como conocimientos en la gestión y mantenimiento de servidores entre otras.
 
+_____________________________________________________________________________________________________________________________________________________________
 
 SKILLS
 
@@ -16,7 +17,7 @@ Programación en SQL.
 Programación en JavaScript.                                                                                                                                    
 Conocimientos en subnetting.                                                                                                                                   
 Conocimientos en hardware.                                                                                                                                     
-
+_____________________________________________________________________________________________________________________________________________________________
 
 PROYECTOS
 
