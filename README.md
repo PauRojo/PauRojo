@@ -20,6 +20,6 @@ Conocimientos en hardware.
 
 PROYECTOS
 
-CV
-Cartera de criptomonedas
-Travel Dashboard
+CV                                                                                                                                                            
+Cartera de criptomonedas                                                                                                                                      
+Travel Dashboard                                                                                                                                             
