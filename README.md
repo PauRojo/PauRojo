@@ -1,6 +1,6 @@
 ABOUT ME
 
-Mi nombre es Pau Rojo Lopez, actualmente soy estudiante de primer año del ciclo formativo de grado superior de administración de sistemas informáticos en red (ASIX) en La Salle Gracia.
+Mi nombre es Pau Rojo Lopez, actualmente soy estudiante de segundo año del ciclo formativo de grado superior de administración de sistemas informáticos en red (ASIX) en La Salle Gracia.
 
 Debido a que la informática es una de mis pasiones decidí estudiar ASIX al finalizar mis estudios de Bachillerato social.
 
